@@ -5,4 +5,3 @@ R1:
   password: 'Admin_1234!'
   groups:
    - group_nxos
-
